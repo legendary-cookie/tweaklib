@@ -1,0 +1,9 @@
+Package: de.vincentschweiger.libcosmo
+Name: libcosmo
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: libcosmo
+Maintainer: Vento
+Author: Vento
+Section: System
+Tag: role::developer
